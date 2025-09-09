@@ -1,1 +1,2 @@
-hi
+A while ago I saw this reel on the Internet...
+and that's how I decided to make this project!
